@@ -1,8 +1,8 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview", "Exploring"];
-let titles_model = ["GPT", "Transformer", "LLM", "RAG", "Retrieval Augmented Generation", "Large Language Models", "Large Language Model", "Graph Neural Networks"];
-let titles_method = ["Pre-train", "Pretrain", "Prompt", "Tuning", "Self-Supervised", "Recommendation", "Adapter", "Graph"];
+let titles_type = ["Dataset", "Benchmark", "Survey", "Rethinking", "Overview", "Exploring"];
+let titles_model = ["Guard Model", "LLM", "LLMs", "RAG", "Reasoning", "Search"];
+let titles_method = ["Safety", "Defense", "Agents", "Agentic RL", "Alignment", "Memory", "Guardrail", "Knowledge", "Graph"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio", "Chuan Shi", "Chao Huang", "Jiliang Tang", "Zhewei Wei", "Wenqi Fan", "Xiangguo Sun"];
+let authors_array = ["Dongrui Liu", "Muhao Chen", "Zhiheng Xi", "Chuan Shi", "Zhicheng Dou", "Wayne Xin Zhao", "Bryan Hooi", "Ji-Rong Wen", "Ningyu Zhang", "Weiyan Shi", "Chaowei Xiao"];
 
 let conferences = [
     // AI
